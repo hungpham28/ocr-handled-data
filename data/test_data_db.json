@@ -1,0 +1,1 @@
+[{"image_path": "datasets/vietnamese/train_images/1336.jpg", "gt_path": "datasets/vietnamese/labels/1336.txt"}, {"image_path": "datasets/vietnamese/train_images/2064.jpg", "gt_path": "datasets/vietnamese/labels/2064.txt"}, {"image_path": "datasets/vietnamese/unseen_test_images/731.jpg", "gt_path": "datasets/vietnamese/labels/731.txt"}]
